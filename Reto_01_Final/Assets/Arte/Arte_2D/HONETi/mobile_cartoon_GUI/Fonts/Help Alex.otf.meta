@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0e49e0c72894e3e40bda13dc7aa16f07
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Help Alex
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 574c85ae0dee49b4596547a72d66f951, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
